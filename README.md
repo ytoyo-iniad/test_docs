@@ -1,43 +1,24 @@
-﻿# μT-Kernel 3.0
-μT-Kernel 3.0 is a Real-time OS for Small-scale Embedded Systems and IoT Edge nodes.
+﻿# μT-Kernel 3.0 documents
+[μT-Kernel 3.0 Specification](https://tron-forum.github.io/mtk3_spec_en/index.html)  
 
-- It is compliant with IEEE Standard 2050-2018 and has high compatibility with μT-Kernel 2.0.
-- Source code has been reviewed and rewritten so that porting to latest microprocessors has become easier.
-- It is not tied to particular development environment, and is usable with many such environments.
-
-μT-Kernel3.0 is developed by TRON Forum.
-The source code of μT-Kernel 3.0 is released as open source under the condition of T-License2.2.
-
-See below for T-License 2.2.
-
-	/docs/TEF000-219-200401.pdf
-
-The projects for various development environments are published below.
-
-[μT-Kernel 3.0 Development environment collection](https://github.com/tron-forum/mtk3_devenv)
-
-For inquiries to the TRON Forum, visit the following website
-
-[TRON Forum  (https://www.tron.org)](https://www.tron.org)
+For inquiries to the TRON Forum, visit the following website  
+TRON Forum (https://www.tron.org)  
 
 ---
-μT-Kernel 3.0は、小規模な組み込みシステムおよびIoTエッジノード向けのリアルタイムOSです。
+[μT-Kernel 3.0 仕様書](https://tron-forum.github.io/mtk3_spec_jp/index.html)
 
-- IEEE 2050-2018規格に準拠し、かつ、μT-Kernel 2.0と高い互換性を維持しています。
-- ソースコードの全面見直しにより、最新のマイコンへの移植性が高まりました。
-- 特定の開発ツールに依存せず、様々な開発環境で使用できます。
+[共通実装仕様書](Implementation_jp/TEF033-W002-2304xx_impl_common_jp.md)  
 
-μT-Kernel 3.0はトロンフォーラムが開発しています。
-μT-Kernel 3.0のソースコードはT-License2.2に基づきオープンソースとして公開されています。
+[ARMv7-Mマイコン向け実装仕様書](Implementation_jp/TEF033-W003-2305xx_impl_armv7m.md)  
+[RXv2マイコン向け実装仕様書](Implementation_jp/TEF033_W00x_2305xx_impl_rxv2.md)  
 
-T-License2.2の内容は以下をご覧ください。
+[STM32H7マイコン向け実装仕様書](Implementation_jp/TEF033-W012-2305xx_impl_stm32h7.md)  
+[RX65Nマイコン向け実装仕様書](Implementation_jp/TEF033-W013-2305xx_impl_rx65n.md)  
 
-	/docs/TEF000-219-200401.pdf
+[TX03 M367 IoT-Engine向け実装仕様書](Implementation_jp/TEF033-W003-2305xx_impl_m367.md)  
+[STM32L4 IoT-Engine向け実装仕様書](Implementation_jp/TEF033-W008-2305xx_impl_stm32l4.md)  
+[RX231 IoT-Engine向け実装仕様書](Implementation_jp/TEF033-W005-2305xx_impl_RX231.md)  
+[RZ/A2M IoT-Engine向け実装仕様書](Implementation_jp/TEF033-W010-2305xx_impl_RZA2M.md)  
 
-各種開発環境向けのプロジェクトは以下に公開しています。
-
-[μT-Kernel 3.0 Development environment collection](https://github.com/tron-forum/mtk3_devenv)
-
-トロンフォーラムへのお問い合わせは以下のHPへ
-
+トロンフォーラムへのお問い合わせは以下のHPへ  
 [トロンフォーラム  (https://www.tron.org)](https://www.tron.org)
